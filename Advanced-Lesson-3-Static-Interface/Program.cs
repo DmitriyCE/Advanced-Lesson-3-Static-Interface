@@ -10,9 +10,10 @@ namespace Advanced_Lesson_3_Static_Interface
         {
             static void Main(string[] args)
             {
-                //Practice.AL3_P1_3();
+            //Practice.AL3_P1_3();
+            Practice.GuessType<double >(250.659800000);
 
-                Lesson.RentPointsExample();
+                //Lesson.RentPointsExample();
 
                 Console.ReadLine();
             }
